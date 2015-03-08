@@ -1,6 +1,3 @@
-library(data.table)
-library(lubridate)
-
 if (!file.exists('source_data')) {
   dir.create('source_data')
 }
